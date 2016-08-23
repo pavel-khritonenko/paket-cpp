@@ -1,6 +1,7 @@
-**/x64/*
-**/x86/*
+#**/x64/*
+#**/x86/*
 *.VC.db
+*.VC.opendb
 *.suo
 .paket/paket.exe
 *.user
